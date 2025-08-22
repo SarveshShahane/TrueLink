@@ -20,8 +20,6 @@ A full-stack web application for managing reminders, rituals, friends, and perso
 
 ## Tech Stack
 
-See [TECH-STACK.md](./TECH-STACK.md) for a detailed list.
-
 - React, Zustand, Vite, Tailwind CSS (Frontend)
 - Node.js, Express.js, MongoDB, Mongoose, JWT, Nodemailer, node-cron (Backend)
 
@@ -37,7 +35,7 @@ See [TECH-STACK.md](./TECH-STACK.md) for a detailed list.
 
 1. **Clone the repository:**
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/SarveshShahane/TrueLink
    cd TrueLink
    ```
 
@@ -87,7 +85,4 @@ TrueLink/
 ## License
 MIT
 
----
 
-## Credits
-Created by the TrueLink team for Ideathon 2025.
